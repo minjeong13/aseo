@@ -136,6 +136,7 @@ img {width:100%; object-fit: cover;}
     display: flex;
     align-items: center;
 }
+.kakao {margin-bottom: 100px;}
 .kakao a {display: flex; align-items: center; margin-top: 40px; color: #282a31;}
 .kakao a img {width: 80px; margin-right: 20px;}
 .kakaoID {font-size: 24px; font-weight: 700;}
