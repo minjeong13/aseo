@@ -21,7 +21,7 @@ img {width:100%; object-fit: cover;}
 .txt40 {font-size: 40px; text-align: center; line-height: 58px;}
 
 .main_section {display: flex; flex-direction: column; align-items: center;justify-content: center;}
-.section_0 div img {margin-top: 100px;}
+.section_0 .ssam img {margin-top: 50px;}
 .section_0_a_box {margin-top: 58px;}
 .section_0_a {padding: 23px 60px;font-weight: 700;font-size: 25px;color: #282a31;background: #f5d312;border-radius: 41px; display: flex; align-items: center;}
 .ssam {margin-top: 120px;}
@@ -136,6 +136,10 @@ img {width:100%; object-fit: cover;}
     display: flex;
     align-items: center;
 }
+.kakao a {display: flex; align-items: center; margin-top: 40px; color: #282a31;}
+.kakao a img {width: 80px; margin-right: 20px;}
+.kakaoID {font-size: 24px; font-weight: 700;}
+.info {color: #9ea2b4; margin-top: 5px; font-weight: 100;}
 
 @media screen and (max-width: 600px) {
     .mgt80 {margin-top: 40px !important;}
