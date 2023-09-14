@@ -20,10 +20,11 @@ img {width:100%; object-fit: cover;}
 .txt60 {font-size: 60px; text-align: center; line-height: 80px;}
 .txt40 {font-size: 40px; text-align: center; line-height: 58px;}
 
-.main_section {display: flex; flex-direction: column; align-items: center;justify-content: center;}
+.main_section {display: flex; flex-direction: column; align-items: center;justify-content: center; margin-top: 50px;}
 .section_0 .ssam img {margin-top: 50px;}
 .section_0_a_box {margin-top: 58px;}
 .section_0_a {padding: 23px 60px;font-weight: 700;font-size: 25px;color: #282a31;background: #f5d312;border-radius: 41px; display: flex; align-items: center;}
+.section_0_a_orng {padding: 23px 60px;font-weight: 700;font-size: 25px;color: #ff7200;background: #fbeeba;border-radius: 41px; display: flex; align-items: center; margin-bottom: 20px;}
 .ssam {margin-top: 120px;}
 .section_1 {display: flex;flex-direction: column;align-items: center;justify-content: center;padding-top: 200px;padding-bottom: 180px;}
 .section_1_title {margin-top: 130px;font-weight: 600;font-size: 94px;}
